@@ -22,3 +22,30 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+/*Celular Pequeno*/
+@media screen and (max-width: 320px) {
+    section {
+        text-align: center;
+        width: 285px;
+        padding-left: 0;
+    }
+}
+
+/*Celular Médio*/
+@media screen and (max-width: 375px) {
+    section {
+        text-align: center;
+        width: 285px;
+        padding-left: 0;
+    }
+}
+
+/*Celular Grande*/
+@media screen and (max-width: 425px) {
+    section {
+        text-align: center;
+        width: 285px;
+        padding-left: 0;
+    }
+}
