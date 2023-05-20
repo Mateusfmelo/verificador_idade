@@ -38,6 +38,15 @@ section {
     padding-top: 20px;
 }
 
+.botao {
+    font-size: 0.5em;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
 /*Adaptabilidade*/
 @media screen and (max-width: 425px) {
 
